@@ -6,7 +6,7 @@ public class Testjava {
 	
 	@Test
 	public void testRien() {
-		// il se passe quelque chose d'autre blablabla
+		// On va dire ça marche
 	}
 
 }
